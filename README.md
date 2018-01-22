@@ -7,7 +7,7 @@ If you have any questions, please **do not send me an e-mail,** but open an issu
 Lecture slides can be found in the Lectures directory.
 
 ## Exercises
-Exercises will soon be found here.
+The exercise sheet can be found in the Exercise directory.
 
 ## Lab sessions
 You will find a fully configured Python environment with GPUs and all libraries pre-installed under the address
