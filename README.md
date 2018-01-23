@@ -4,10 +4,10 @@ This is the repository for the X-ray tomography part of the course HL2027 in Jan
 If you have any questions, please **do not send me an e-mail,** but open an issue in this repository, since you will certainly not be the only one with the same question.
 
 ## Lectures
-Lecture slides will soon be found here.
+Lecture slides can be found in the Lectures directory.
 
 ## Exercises
-Exercises will soon be found here.
+The exercise sheet can be found in the Exercise directory.
 
 ## Lab sessions
 You will find a fully configured Python environment with GPUs and all libraries pre-installed under the address
